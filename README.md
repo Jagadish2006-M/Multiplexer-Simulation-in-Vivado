@@ -109,7 +109,8 @@ endmodule
 ```
 ## Simulated Output Data Flow Modelling
 
-_______ Here Paste the Simulated output  ___________
+_______ Here Paste the Simulated output  ![4_1Mux Data Flow](https://github.com/user-attachments/assets/515405e1-cd96-4641-ad3b-3913a710dc47)
+___________
 
 ### 4:1 MUX Behavioral Implementation
 ```verilog
