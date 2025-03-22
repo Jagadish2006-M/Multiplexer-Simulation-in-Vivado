@@ -136,7 +136,8 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-_______ Here Paste the Simulated output  ___________
+_______ Here Paste the Simulated output  ![Uploading mux4_1 Behaviour.png…]()
+___________
 
 
 ### 4:1 MUX Structural Implementation
