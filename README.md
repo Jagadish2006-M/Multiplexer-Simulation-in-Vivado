@@ -172,7 +172,8 @@ endmodule
 ```
 ## Simulated Output Structural Modelling
 
-_______ Here Paste the Simulated output  ___________
+_______ Here Paste the Simulated output  _![Mux4_1 using 2 2_1Mux](https://github.com/user-attachments/assets/69505081-e54d-418e-bc91-695849097a3a)
+__________
 
 ### Testbench Implementation
 ```verilog
