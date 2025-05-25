@@ -136,7 +136,9 @@ endmodule
 ```
 ## Simulated Output Behavioral Modelling
 
-_______ Here Paste the Simulated output  ![Uploading mux4_1 Behaviour.png…]()
+_______ Here Paste the Simulated output  
+![mux4_1 Behaviour](https://github.com/user-attachments/assets/a5415436-3ff0-4b20-bfe1-01b44b9bf6b4)
+
 
 ___________
 
